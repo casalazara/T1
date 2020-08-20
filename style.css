@@ -1,0 +1,60 @@
+h1{
+  color:red;
+
+}
+h2{
+  color:blue;
+}
+
+#h22{
+  color:orange;
+}
+
+p{
+  text-align:  center;
+  font-weight: bold;
+
+}
+
+#p2{
+  text-align:center;
+  color: blue;
+  font-weight: bolder;
+}
+
+#encabezado{
+  font-weight: bold;
+  color:blue;
+  background-color: pink;
+}
+
+label[for="visitante"]{
+  color:orangered;
+  font-weight:bolder;
+  font-size:large;
+}
+
+input[type="text"]
+{
+  background-color:greenyellow;
+  width:150px;
+  margin-bottom:10px;
+  border-style: inset;
+  border-color:lightgray;
+}
+
+form{
+  font-weight: bold;
+}
+
+*{
+  padding-bottom: 2px;
+}
+
+input[type="button"]
+{
+  border-color:lightgray;
+  box-shadow:0px;
+  border-radius: 5px;
+  border-style:ridge;
+}
